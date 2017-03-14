@@ -17,11 +17,12 @@ The script processes the 'class' data file first, then the 'daily' one.
 # Attendance Import Process
 The following is a high-level overview of the steps you will need to take to import attendance.
 1. Download both Class and Daily attendance data files in the `Senior Systems` format for each  division.
-  * Name the files so it is clear whether what type of attendance data they contain, and for which division.
-  * I would also recommend including the academic year and date of download for archival purposes.
+    * Name the files so it is clear whether what type of attendance data they contain, and for which division.
+    * I would also recommend including the academic year and date of download for archival purposes.
 2. test
 
 
 ## Class data file processing
 The goal here is to remove the attendance entries from the class file that already exist in the daily file. This is to reduce entry duplication when importing the class attendance data.
 
+ 
