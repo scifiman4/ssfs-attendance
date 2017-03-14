@@ -19,7 +19,7 @@ The following is a high-level overview of the steps you will need to take to imp
 1. Download both Class and Daily attendance data files in the `Senior Systems` format for each  division.
   * Name the files so it is clear whether what type of attendance data they contain, and for which division.
   * I would also recommend including the academic year and date of download for archival purposes.
-2. 
+2. test
 
 
 ## Class data file processing
