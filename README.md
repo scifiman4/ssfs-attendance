@@ -2,7 +2,7 @@
 This script processes the attendance data files, which are downloaded from SSFS's Finalsite Learn LMS Manager in the "Senior Systems" format.
 
 
-[#1](# Attendance types)
+# Attendance types
 SSFS enters both Class and Daily attendance, but reports only on class attendance.
 <dl>
   <dt>Class Attendance</dt>
